@@ -10,6 +10,13 @@ Today I have created a React Portfolio! It shows some projects that i have creat
 
 [React Portfolio](https://drive.google.com/file/d/1-UarbR4E49cfO5UEXvxkD1HHipJCTHB4/view)
 
+## Screenshots
+
+![About me page](./src/assets/A.png)
+![Portfolio page ](./src/assets/B.png)
+![Resume page ](./src/assets/C.png)
+![Contact page ](./src/assets/D.png)
+
 # Deploy React App to GitHub Pages
 
 At this point in the course, you have spent some time immersed in React and have even created some React apps of your own. React can seem confusing at first, but the good news is that `create-react-app` gives you the tools to build applications from scratch. This guide will show you how to deploy your React app to GitHub Pages while preserving the file structure of your source files.
