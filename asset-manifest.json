@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.db83e8a3.css",
+    "main.js": "/react-portfolio/static/js/main.5239ef91.js",
+    "static/media/myAnimeList.png": "/react-portfolio/static/media/myAnimeList.6be60db4b5736dfbb7e5.png",
+    "static/media/JavascriptQuiz.png": "/react-portfolio/static/media/JavascriptQuiz.1f7d120479dc10a332ee.png",
+    "static/media/tagAlong.png": "/react-portfolio/static/media/tagAlong.9b390d124b0d4f09e2a1.png",
+    "static/media/passwordGenerator.png": "/react-portfolio/static/media/passwordGenerator.51bb2097e4809b1d2ecb.png",
+    "static/media/Calendar.png": "/react-portfolio/static/media/Calendar.07b0711a896f8f11176a.png",
+    "static/media/portfolio.png": "/react-portfolio/static/media/portfolio.f20eb7273243f958d7d4.png",
+    "static/media/headshot.JPG": "/react-portfolio/static/media/headshot.3694e5101494de2edf01.JPG",
+    "static/media/Kevin-Lam.pdf": "/react-portfolio/static/media/Kevin-Lam.eab6494c1f9b559e1ac9.pdf",
+    "index.html": "/react-portfolio/index.html",
+    "main.db83e8a3.css.map": "/react-portfolio/static/css/main.db83e8a3.css.map",
+    "main.5239ef91.js.map": "/react-portfolio/static/js/main.5239ef91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db83e8a3.css",
+    "static/js/main.5239ef91.js"
+  ]
+}
